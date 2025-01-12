@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucky07-07
 - A passionate full Stack Web Developer
-- 👀 I’m interested in  Web development, UI/UX Designing and Development, Full Stack DataScience
+- 👀 I’m interested in  Web development, Full Stack DataScience and Artificial Intelligence
 - 🌱 I’m currently learning Programming and Full Stack DataScience
 - 📫 How to reach me anilkumarlucky07@gmail.com
 
