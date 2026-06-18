@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td><b>🎓 Education</b></td>
-    <td>M.Sc. Data Science (in progress)</td>
+    <td>M.Tech Data Science (in progress)</td>
   </tr>
   <tr>
     <td><b>🔬 Research Focus</b></td>
