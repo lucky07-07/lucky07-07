@@ -150,18 +150,21 @@ My work also spans **carbon-aware autonomous agents for Kubernetes** (LangGraph 
 
 ## 📊 GitHub Stats & Widgets
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucky07-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&card_width=320" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky07-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=320" height="150"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky07-07&theme=tokyonight&hide_border=true&mode=weekly&card_width=660" height="150"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=lucky07-07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&card_width=320" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky07-07&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&card_width=320" height="160"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky07-07&theme=tokyo-night&hide_border=true&area=true&height=200&custom_title=Contribution+Activity"/>
-</p>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky07-07&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=00D9FF" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky07-07&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&height=250&custom_title=Contribution%20Graph"/>
+
+</div>
 
 ---
 
