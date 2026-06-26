@@ -151,16 +151,16 @@ My work also spans **carbon-aware autonomous agents for Kubernetes** (LangGraph 
 ## 📊 GitHub Stats & Widgets
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucky07-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky07-07&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucky07-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&card_width=320" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky07-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=320" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky07-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky07-07&theme=tokyonight&hide_border=true&mode=weekly&card_width=660" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky07-07&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky07-07&theme=tokyo-night&hide_border=true&area=true&height=200&custom_title=Contribution+Activity"/>
 </p>
 
 ---
