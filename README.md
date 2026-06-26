@@ -1,17 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Anil%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20AI%20Researcher&descAlignY=58&descSize=18" />
+# Hi, I'm Anil Kumar 👋
+
+### M.Tech Data Science · AI/ML Engineer · Open Source
+
+🎓 **Amrita Vishwa Vidyapeetham, Bengaluru**
 
 <a href="https://github.com/lucky07-07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Master's+student+in+Data+Science;Building+ML+%2F+DL+systems+at+research+depth;PyTorch+%C2%B7+Transformers+%C2%B7+Vision+%C2%B7+NLP+%C2%B7+GenAI;Turning+research+into+shipped+AI+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=M.Tech+Data+Science+%40+Amrita%2C+Bengaluru;Carbon-aware+AI+agents+for+Kubernetes;Real-time+geospatial+intelligence+at+scale;Low-resource+Kannada+NLP+%26+image+captioning;Fine-grained+vision+transformers+at+97.48%25+accuracy" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="mailto:anilkumarlucky07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/lucky07-07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- Add LinkedIn / Portfolio / Kaggle / Hugging Face links here -->
-<img src="https://komarev.com/ghpvc/?username=lucky07-07&label=Profile%20views&color=22d3ee&style=for-the-badge" />
+<a href="https://your-url-here"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=lucky07-07&label=Profile%20views&color=00D9FF&style=for-the-badge" />
 
 </div>
 
@@ -19,145 +23,91 @@
 
 ## 🧠 About Me
 
-> **Data Scientist · ML Engineer · AI Researcher**
-> Master's student in Data Science building research-grade ML systems that ship to production.
-> *"Research-grade rigor. Production-grade delivery."*
+I'm a Master's student in Data Science at **Amrita Vishwa Vidyapeetham, Bengaluru**, building ML systems that hold up to both research scrutiny and production load. My work spans **carbon-aware autonomous agents for Kubernetes** (LangGraph + local LLM reasoning), **real-time geospatial intelligence** streaming satellites, aircraft, and weather through Kafka and Spark, and **low-resource Indic NLP** — I constructed the first large-scale Kannada image-caption dataset (250K captions) and benchmarked CNN-RNN against Transformer architectures for a paper currently under review.
 
-<table>
-  <tr>
-    <td><b>🎯 Role</b></td>
-    <td>Data Scientist · ML Engineer · AI Researcher</td>
-  </tr>
-  <tr>
-    <td><b>🎓 Education</b></td>
-    <td>M.Tech Data Science (in progress)</td>
-  </tr>
-  <tr>
-    <td><b>🔬 Research Focus</b></td>
-    <td>Deep Learning · Computer Vision · NLP · Generative AI</td>
-  </tr>
-  <tr>
-    <td><b>🛠️ Core Stack</b></td>
-    <td>PyTorch · Transformers · FastAPI · React · Docker</td>
-  </tr>
-  <tr>
-    <td><b>🚀 Currently</b></td>
-    <td>Imbalance-aware vision transformers + low-resource NLP</td>
-  </tr>
-  <tr>
-    <td><b>📬 Open To</b></td>
-    <td>AI/ML Internships · Research Collaborations · Open-Source AI</td>
-  </tr>
-</table>
-
-- 🎓 Pursuing my **Master's in Data Science**, with a research focus on **deep learning, vision transformers, and low-resource NLP**
-- 🧪 I build end-to-end ML systems — from **dataset construction** to **model training, ensembling, and deployment**
-- 🚀 Currently shipping work in **fine-grained image classification, multilingual captioning, and real-time geospatial intelligence**
-- 🌐 Full-stack capable, so my models don't just sit in notebooks — they **ship behind APIs and UIs**
-- ✉️ Open to **AI/ML internships, research opportunities, and open-source collaboration**
+On the vision side, I push **imbalance-aware fine-grained classification**, reaching **97.48% accuracy** with a transformer ensemble on rice-leaf disease recognition. I care about the full path — dataset construction, training, ensembling, explainability — and shipping models behind real **FastAPI services and React dashboards**, not leaving them in notebooks.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI / ML / Data Science
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**ML / AI / Deep Learning**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FCC419?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FCC419?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-1A4F8B?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-1A4F8B?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+**Data / Streaming / Backend**
 
-### ⚙️ Backend / APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![LanceDB](https://img.shields.io/badge/LanceDB-7C3AED?style=for-the-badge&logo=database&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### 🎨 Frontend
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![CesiumJS](https://img.shields.io/badge/CesiumJS-6CADDF?style=for-the-badge&logo=cesium&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**DevOps / Tooling**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+🔗 **[SustainSched — Carbon-Aware Kubernetes Orchestration](https://github.com/lucky07-07/autonomous-carbon-k8s-scheduler)** — An autonomous AI agent that schedules Kubernetes workloads across 14 UK grid regions by carbon intensity, pairing XGBoost forecasting (RMSE 9.29, R² 0.917) with a local Llama 3.2 model for explainable, audited decisions.
+`Python` `LangGraph` `Ollama / Llama 3.2` `XGBoost` `PyTorch` `FastAPI` `Kubernetes` `Prometheus` `Grafana`
 
-### 🌾 <a href="#">AgroVision-7</a>
-**Imbalance-aware transformer ensemble for fine-grained rice leaf disease recognition.**
+🔗 **[Geospatial Monitoring System](https://github.com/lucky07-07/geospatial-monitoring-system)** — Real-time multi-domain intelligence platform tracking 126 satellites, 1,512 aircraft, and live weather through Kafka, with a PySpark analytics layer and a mode-switched React + CesiumJS dashboard.
+`Python` `Apache Kafka` `FastAPI` `PostGIS` `PyTorch (STGCN/LSTM)` `PySpark` `React` `CesiumJS` `Docker`
 
-`PyTorch` `ViT` `Swin-T` `ConvNeXt` `Optuna` `Focal Loss` `Grad-CAM`
+🔗 **[KIC-COCO — Kannada Image Captioning](https://github.com/lucky07-07/KIC-COCO-Kannada-Image-Captioning)** — First large-scale Kannada image-caption dataset (250K captions / 50K MS COCO images via IndicTrans2-1B) with a 6-architecture CNN-RNN vs. Transformer benchmark; ConvNeXtTransformer hits BLEU-4 68.65 / BERTScore 84.02. *(Paper under review.)*
+`Python` `PyTorch` `Transformers` `IndicTrans2` `CLIP / ViT / Swin / ConvNeXt` `SacreBLEU` `BERTScore`
 
-- 🎯 **97.48% accuracy · 0.9750 macro-F1** on 7-class fine-grained classification
-- 🧪 Accuracy-weighted ensemble of ViT-B/16, Swin-T, ConvNeXt-Tiny with 5-view TTA
-- ⚖️ Imbalance handled via `WeightedRandomSampler` + class-weighted Focal Loss → **+17.23 pts** over a non-augmented baseline
-- 🔍 15-trial Optuna TPE search · two-stage transfer learning · AMP · Grad-CAM explainability
+🔗 **[AgroVision-7 — Rice Leaf Disease Classification](https://github.com/lucky07-07/rice-leaf-disease-classification)** — Lightweight deep-learning study for fine-grained 7-class rice disease recognition; an Optuna-tuned, TTA transformer ensemble reaches **97.48% accuracy / 0.9750 macro-F1** with imbalance-aware training and Grad-CAM explainability.
+`Python` `PyTorch` `ViT-B/16` `Swin-T` `ConvNeXt` `Optuna` `Focal Loss` `Grad-CAM`
 
-</td>
-<td width="50%" valign="top">
+🔗 **[Sentient — Self-Verifying AI Intelligence Terminal](https://github.com/lucky07-07/sentient)** — A self-running agentic-RAG terminal that monitors 8 AI-ecosystem sources, drafts a daily briefing, runs a critic pass to catch hallucinations, and rewrites its own operating constitution after every run.
+`TypeScript` `Next.js 14` `Groq (qwen3-32b)` `Gemini Embeddings` `LanceDB` `D3.js`
 
-### 🗣️ <a href="#">KannadaCap</a>
-**Multi-architecture image captioning for low-resource Kannada.**
+🔗 **[Portfolio](https://github.com/lucky07-07/portfolio)** — A modern, dark-themed personal portfolio with a dashboard-style layout and smooth motion design.
+`React 19` `Vite 7` `Tailwind CSS` `Framer Motion`
 
-`PyTorch` `Transformers` `IndicTrans2` `CLIP` `Swin` `ConvNeXt` `BERTScore`
-
-- 📚 Built a **~225K-caption Kannada corpus** by translating 50K MS COCO images via IndicTrans2-1B
-- 🏗️ Benchmarked **8 encoder–decoder architectures** spanning CNN-RNN + Bahdanau and Transformer decoders
-- 🥇 Best model **ConvNeXtTransformer**: BLEU-4 = 67.95, chrF = 42.95 (sacrebleu, beam k=5)
-- 🔁 Back-translation semantic eval: **BERTScore F1 = 84.02**, CIDEr = 0.80, METEOR = 38.22
-
-</td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-
-### 🛰️ <a href="#">GeoIntel-RT</a>
-**Real-time multi-domain geospatial intelligence platform.**
-
-`Kafka` `PyTorch` `STGCN` `LSTM` `Isolation Forest` `React` `WebSocket` `Docker`
-
-- 🌍 Tracks **126 satellites · 1,512 aircraft · 6 weather stations** through **5 Kafka topics** across **7 containerised microservices**
-- 🤖 Three PyTorch model families: **GRU/LSTM trajectory forecasters, Spatio-Temporal Graph Convolutional Network, Isolation Forest** for anomaly detection
-- 📡 100 satellite forecasts (90-min horizon) + 459 aircraft forecasts (30-min horizon) per cycle · ~20s publish interval
-- 🖥️ 4-mode React WebSocket dashboard (Space / Air / Weather / Analytics) rendering at 20–24 fps with 100 ms throttle
-
-</td>
-  </tr>
-</table>
+<sub>More on my profile: `weather-app`, `login-page`, `Static-Web-Page`, plus DSA & statistics learning repos.</sub>
 
 ---
 
@@ -165,47 +115,24 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucky07-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky07-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![Stats](https://github-readme-stats.vercel.app/api?username=lucky07-07&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky07-07&theme=tokyonight&hide_border=true" />
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucky07-07&theme=tokyonight&hide_border=true)
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucky07-07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky07-07&theme=tokyo-night&bg_color=1a1b27&hide_border=true&line=22d3ee&point=ffffff" />
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky07-07&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🎯 Currently Focused On
-
-- **Research** — Imbalance-aware fine-grained vision (transformer ensembles, attention, TTA) · Low-resource & Indic NLP (Kannada, IndicTrans2, back-translation evaluation) · Real-time streaming AI (Kafka + PyTorch + STGCN)
-- **Engineering** — Production-ready ML APIs (FastAPI + Docker) · Frontend dashboards for ML systems (React + Tailwind + Framer Motion)
-- **Learning** — Generative AI · LLM fine-tuning · RAG · Diffusion models · MLOps · Model compression · On-device inference
-
----
-
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <div align="center">
 
-<a href="mailto:anilkumarlucky07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/lucky07-07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- Replace # with your real links -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucky07-07)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilkumarlucky07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://your-url-here)
 
-<br/><br/>
-
-<i>"Research-grade rigor. Production-grade delivery."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+<sub>📌 Open to AI/ML & Data Science roles, research collaborations, and open-source work.</sub>
 
 </div>
