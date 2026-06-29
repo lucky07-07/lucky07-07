@@ -152,17 +152,17 @@ My work also spans **carbon-aware autonomous agents for Kubernetes** (LangGraph 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucky07-07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&card_width=320" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lucky07-07&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&border_radius=16&card_width=400" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky07-07&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&card_width=320" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky07-07&layout=compact&langs_count=10&bg_color=FFFFFF&title_color=0969DA&text_color=1F2328&border_color=D0D7DE&border_radius=16&card_width=400" height="170"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky07-07&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=00D9FF" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky07-07&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=656D76&border_radius=16" width="820"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky07-07&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&height=250&custom_title=Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky07-07&bg_color=FFFFFF&color=0969DA&line=0969DA&point=0969DA&area=true&area_color=0969DA&hide_border=false&border_color=D0D7DE&radius=16&height=300&custom_title=Contribution%20Activity" width="820"/>
 
 </div>
 
