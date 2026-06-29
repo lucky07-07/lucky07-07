@@ -158,7 +158,7 @@ My work also spans **carbon-aware autonomous agents for Kubernetes** (LangGraph 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky07-07&bg_color=FFFFFF&color=0969DA&line=0969DA&point=0969DA&area=true&area_color=0969DA&hide_border=false&border_color=D0D7DE&radius=16&height=300&custom_title=Contribution%20Activity" width="820"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky07-07&bg_color=FFFFFF&color=0969DA&line=0969DA&point=0969DA&area=true&area_color=54AEFF&hide_border=false&border_color=D0D7DE&radius=16&height=320&custom_title=Contribution%20Activity" width="820"/>
 
 </div>
 
